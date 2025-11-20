@@ -2,7 +2,7 @@
 // https://github.com/tensorflow/tfjs-models/tree/master/speech-commands
 
 // PLAK HIER DE LINK NAAR JE MODEL
-const URL = "https://teachablemachine.withgoogle.com/models/ytj_eWCtE/";
+const URL = "https://teachablemachine.withgoogle.com/models/hier-jouw-code/";
 
 async function createModel() {
   const checkpointURL = URL + "model.json";
