@@ -8,13 +8,12 @@
 - Maak 4 classes en geef ze optioneel wat namen.
   - Pak je telefoon en selecteer vier meldingstonen, gebruik per class 1 meldingstoon.
   - Gebruik minstens 30 audiobestanden van 2 seconden per class.
-- Bedenk unieke geluiden 
-- Neem ±100 beelden per letter op;  
 - Train het ML model;
 - Test het model door de geluiden af te spelen, kijk of dit consistent werkt.
 > [!warning]
 > Hertrain indien nodig
 - Exporteer het model
+  - Hier krijg je een linkje uit; plak deze in `/script/geluid.js` op **lijn 5**
 - Maak foto’s en filmpjes voor je productbiografie
 
 > [!tip]
