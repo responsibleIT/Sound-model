@@ -6,6 +6,7 @@
 - Start een nieuw project, kies: **`Project met audio`**
 - Train de achtergrond class met geluiden uit de klas; doe dit ongeveer 4 keer (of vaker)
 - Maak 4 classes en geef ze optioneel wat namen.
+  - Pak je telefoon en selecteer vier meldingstonen, gebruik per class 1 meldingstoon.
   - Gebruik minstens 30 audiobestanden van 2 seconden per class.
 - Bedenk unieke geluiden 
 - Neem ±100 beelden per letter op;  
