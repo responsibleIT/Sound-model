@@ -1,10 +1,12 @@
-# Sound model
+Ω  # Sound model
 
 ## Opdrachtomschrijving
 ### Maak een team met max. 4 studenten.
 - Ga naar [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)
 - Start een nieuw project, kies: **`Project met audio`**
+- Train de achtergrond class met geluiden uit de klas; doe dit ongeveer 4 keer (of vaker)
 - Maak 4 classes en geef ze optioneel wat namen.
+  - Gebruik minstens 30 audiobestanden van 2 seconden per class.
 - Bedenk unieke geluiden 
 - Neem ±100 beelden per letter op;  
 - Train het ML model;
