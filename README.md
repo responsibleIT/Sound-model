@@ -15,6 +15,7 @@
 > Hertrain indien nodig
 - Exporteer het model
   - Hier krijg je een linkje uit; plak deze in `/script/geluid.js` op **lijn 5**
+- Om het project op te starten pak je [het zipje](https://github.com/responsibleIT/Sound-model/blob/main/geluid.zip) uit en gebruik je de `go live` knop rechts-onderin 
 - Maak foto’s en filmpjes voor je productbiografie
 
 > [!tip]
