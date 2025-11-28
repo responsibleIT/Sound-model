@@ -23,7 +23,7 @@
 > [!tip]
 > In de `geluid.css` staat er een **geavanceerd** stuk; als je _nog_ beter wilt worden in CSS mag je hier naar kijken.
 > 
-> Dit is optioneel.
+> **Dit is optioneel.**
 
 ## Probeer zoveel mogelijk aan te passen in de CSS.
 _Ga door tot je de CSS hebt “stukgemaakt”: de pagina werkt niet meer._
